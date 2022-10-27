@@ -39,6 +39,6 @@ class Token(BaseModel):
     token_type: str
 
 class TokenData(BaseModel):
-    username: Union[str, None] = None
+    email: Union[str, None] = None
 
 
