@@ -15,3 +15,14 @@
 - docs - swagger : RESTful api를 json으로 표현하는 방식. get post delete 인터페이스를 제공한다.
 - redoc - ReDoc : 오픈소스 툴이며 문서를 제공한다.
 - openapi.json : RESTful의 access point
+
+# FastAPI로 블로그 구현
+- 주소 : https://cg9tsb.deta.dev/docs
+  1. 유저를 생성한다. (아이디, 이메일, 비밀번호 입력)
+  2. 로그인을 한다. (이메일, 비밀번호 입력)
+  3. 블로그를 관리한다. (생성, 업데이트, 삭제, 보기)
+- ![image](https://user-images.githubusercontent.com/73030613/199460770-04211653-3032-4ead-a5ef-37e62bd599f5.png)
+
+
+- 클론 코딩 출처 : https://www.youtube.com/watch?v=7t2alSnE2-I
+
