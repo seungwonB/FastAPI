@@ -19,7 +19,7 @@
 # FastAPI로 블로그 구현
 - 주소 : https://cg9tsb.deta.dev/docs
   1. 유저를 생성한다. (아이디, 이메일, 비밀번호 입력)
-  2. 로그인을 한다. (이메일, 비밀번호 입력)
+  2. 우측 상단에 Authorize 버튼을 눌러 인증을 한다. (이메일, 비밀번호 입력)
   3. 블로그를 관리한다. (생성, 업데이트, 삭제, 보기)
 - ![image](https://user-images.githubusercontent.com/73030613/199460770-04211653-3032-4ead-a5ef-37e62bd599f5.png)
 
